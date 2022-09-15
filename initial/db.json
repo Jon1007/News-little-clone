@@ -1,0 +1,35 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "name": "My first news",
+      "description": "Text messaging, or texting, is the act of composing and sending electronic messages, typically consisting of alphabetic and numeric characters, between two or more",
+      "category": "Hot News"
+    },
+    {
+      "id": 2,
+      "name": "Football news",
+      "description": "Text messaging, or texting, is the act of composing and sending electronic messages, typically consisting of alphabetic and numeric characters, between two or more",
+      "category": "Sport News"
+    },
+    {
+      "id": 3,
+      "name": "Which one is better?",
+      "description": "Text messaging, or texting, is the act of composing and sending electronic messages, typically consisting of alphabetic and numeric characters, between two or more",
+      "category": "Technology"
+    },
+    {
+      "id": 4,
+      "name": "Self study or Group?",
+      "description": "Text messaging, or texting, is the act of composing and sending electronic messages, typically consisting of alphabetic and numeric characters, between two or more",
+      "category": "Education"
+    }
+  ],
+  "filter": [
+    "all",
+    "hot",
+    "sport",
+    "technology",
+    "education"
+  ]
+}
